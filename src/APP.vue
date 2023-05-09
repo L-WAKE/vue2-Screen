@@ -10,7 +10,7 @@
 <script>
 import ScreenBox from "./layout/Screen.vue";
 export default {
-  name: "large-screen",
+  name: "App",
   components: {
     ScreenBox,
   },

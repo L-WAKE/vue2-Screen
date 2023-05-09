@@ -7,6 +7,9 @@
 </template>
 
 <script>
+export default {
+  name: "large-screen",
+};
 //   background-color: gray;
 </script>
 <style scoped lang="scss">

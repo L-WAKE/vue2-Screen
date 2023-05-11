@@ -82,6 +82,6 @@ module.exports = {
     }),
   ],
   optimization: {
-    sideEffects: true, //开启树摇，将没有使用的变量或方法剔除 不参与打包
+    sideEffects: false, //开启树摇，将没有使用的变量或方法剔除 不参与打包
   },
 };
